@@ -1,4 +1,4 @@
-import { ca } from 'date-fns/locale'
+// import { ca } from 'date-fns/locale'
 import React, {useState} from 'react'
 import {API_URL} from '../../data/ApiPath'
 // import {ThreeCircles} from 'react-loader-spinner'
