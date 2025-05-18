@@ -1,5 +1,5 @@
 import React from 'react'
-import Landing from './vendorDashboard/pages/Landing.JSX'
+import Landing from './vendorDashboard/pages/Landing.jsx'
 import { Routes, Route } from 'react-router-dom'
 import "./App.css"
 import NotFound from './vendorDashboard/component/NotFound'
